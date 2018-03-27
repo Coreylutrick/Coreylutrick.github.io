@@ -11,6 +11,10 @@ var blogs =
   {
     title: "Blog 3",
     info: "Wow. I was right about arrays only scratching the surface of java script. This week we dived into objects and functions. Not only that, we also got into arrays of objects that were manipulated by functions. This got way more in depth then arrays did but I feel like I grasped this alot easier. Functions make going through data so much easier. I had used a couple last week but only what i had learned myself so my understanding of them wasnt as strong. Now that i know the power of what they can do alot of the tasks i had last week now look very easy. Also the structure of objects makes it easier for me. I find that being able to call certain keys or all keys(or values) makes things easier. I now also like that i can easily make a function that will insert the finished product of what i want to do with the data right into the html without hard coding it. I do think though that depending on what you are doing building up a string in a js file can get pretty crazy if you aren't keeping your code clean and organized. One thing I did notice this weeek is that I organize my brackets and other syntax elements differently then most of my class mates. I put all of my brackets on their own line so i can clearly see if i am missing one. All I have to do is follow that specific indentation down and see if my brackets are closed. I know this makes my code longer but for me it has minimized my syntax errors, or made them easier to fix if i have one."
+  },
+  {
+    title: "Blog 4",
+    info: "This week was very interesting for me. We are finally making things that do something. We have started getting into event listeners which is giving us the ability to give our projects some interactability. These have been pretty straight forward so far, they are similar to functions in the way that i just have to look up different methods to make them do what I want. We also started learning ES6 for java script. I enjoy this way of writing functions just because it seems more straightforward and clean when i look at the code."
   }
 ]
 

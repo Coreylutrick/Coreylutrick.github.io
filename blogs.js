@@ -14,7 +14,7 @@ var blogs =
   },
   {
     title: "Blog 4",
-    info: "This week was very interesting for me. We are finally making things that do something. We have started getting into event listeners which is giving us the ability to give our projects some interactability. These have been pretty straight forward so far, they are similar to functions in the way that i just have to look up different methods to make them do what I want. We also started learning ES6 for java script. I enjoy this way of writing functions just because it seems more straightforward and clean when i look at the code."
+    info: "This week was very interesting for me. We are finally making things that do something. We have started getting into event listeners which is giving us the ability to give our projects some interactability. These have been pretty straight forward so far, they are similar to functions in the way that i just have to look up different methods to make them do what I want. We also started learning ES6 for java script. I enjoy this way of writing functions just because it seems more straightforward and clean when i look at the code. We also went over what needs to be in a readme to make it serve its purpose. Until now we had just been naming them but now I see alot more goes into to actually provide the user or whoever is looking at your code with valuable information."
   }
 ]
 

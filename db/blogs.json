@@ -24,6 +24,14 @@
     {
       "title": "Blog #6",
       "info": "We can finally use boot strap. This week was pretty straightforward with what we learned. Alot of it was just understanding where to find the classes you need for your code to make bootstrap do what you want. I really like bootstrap because it takes alot of the tedious leg work out of certain things. Also you can just overwrite certain styling aspects with your own css file to make them exactly how you want. The only thing thta bothers me is how we pring our visible elements right now it makes offsetting column problematic becuase it makes changes to all your printed elements."
+    },
+    {
+      "title": "Blog #7",
+      "info": "This week we learned about browserify. At first it seemed like alot to do for the set up of a project for such little value to get back. But now i see the benefit of it because of the exporting and requiring aspect. It also holds my code to a consistent standard which is nice when i look at my code and it is very uniform. It also lets me find pieces of code that i have in my files easier because it isnt alljust one huge wall of javascript now. I still have to memorize the set up for the browserify stuff as well as grunt but it is starting to become muscle memory as well."
+    },
+    {
+      "title": "Blog #8",
+      "info": "This week we have just built off what we started with last week. THe most interesting thing i think so far is that we can now safely save data into our js because we just use a module that isnt accesable by a user. This makes iteasier to maipulate data and use it how you want without having to call it multiple times through an xhr request. We have been ding this by pulling the info down and sticking it into an array we had defined but left empty. I have run into some issues with circular dependancy though just from the location of certain functions or event listeners."
     }
   ]
 }

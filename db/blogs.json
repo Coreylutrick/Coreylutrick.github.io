@@ -40,6 +40,10 @@
     {
       "title": "Blog #10",
       "info": "WOW! Jquery is my new best friend. Im amazed at how much more quickly you can get things done without having to code in vanilla JS. Event listeners are now super easy to attach as well as getting them to do what you want. I feel like things are alot more straightforward using jquery. Im not going to lie though i do feel a little betrayed seeing how things that used to give me massive headaches are no accomplished using way less code and time to do haha."
+    },
+    {
+      "title": "Blog #11",
+      "info": "I'm not as excited this week... We started with promises and i am a little confused about them. So far i see the helpfulness of them being able to put more then one data call together without having to do it in some crazy way. I am a little hazy on the actual functionality of them so far, i kind of feel like i am writing the code without fully understanding why i am doing it. That said it is really nice to be able to smush 2 or 3 data calls together and use them to make a modified verion of the data."
     }
   ]
 }

@@ -44,6 +44,10 @@
     {
       "title": "Blog #11",
       "info": "I'm not as excited this week... We started with promises and i am a little confused about them. So far i see the helpfulness of them being able to put more then one data call together without having to do it in some crazy way. I am a little hazy on the actual functionality of them so far, i kind of feel like i am writing the code without fully understanding why i am doing it. That said it is really nice to be able to smush 2 or 3 data calls together and use them to make a modified verion of the data."
+    },
+    {
+      "title":"Blog #1",
+      "info": "This week we learned about apis. So far it hasnt been to confusing. Mostly just figuring out what the api needs to work and making sure that noce i set up the url in the promise that i have everything in the right place."
     }
   ]
 }

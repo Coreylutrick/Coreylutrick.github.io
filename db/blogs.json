@@ -46,8 +46,16 @@
       "info": "I'm not as excited this week... We started with promises and i am a little confused about them. So far i see the helpfulness of them being able to put more then one data call together without having to do it in some crazy way. I am a little hazy on the actual functionality of them so far, i kind of feel like i am writing the code without fully understanding why i am doing it. That said it is really nice to be able to smush 2 or 3 data calls together and use them to make a modified verion of the data."
     },
     {
-      "title":"Blog #1",
+      "title":"Blog #12",
       "info": "This week we learned about apis. So far it hasnt been to confusing. Mostly just figuring out what the api needs to work and making sure that noce i set up the url in the promise that i have everything in the right place."
+    },
+    {
+      "title":"Blog #13",
+      "info": "This week we expanded on apis and focused on firebase. This has been interesting because now we can actually save specific user information as well as make running apps that other people can use. The only difficult part so far to me is remembering the steps to take outside of our code to make sure everything is working with firebase. The part that seems the nicest is that we can modify how we want our data structure easily."
+    },
+    {
+      "title":"Blog #14",
+      "info":"This week we added authentication to our project. Honestly the hardest, or most annoying part is hiding and adding classes to create the page to what we want visually. The actual code behind creating the log in is just following a list alomost. "
     }
   ]
 }
